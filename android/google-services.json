@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78639777119",
+    "project_id": "virasat-1be29",
+    "storage_bucket": "virasat-1be29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78639777119:android:48eb5f9c18d0333e8622ea",
+        "android_client_info": {
+          "package_name": "com.purely_farms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78639777119-4orss578p7origks0fefqkql0n0kjia9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQF5z-hIs2-7inW-J1AtyEaMs0xow5Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78639777119-4orss578p7origks0fefqkql0n0kjia9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
